@@ -40,7 +40,7 @@
 
 例子：
 
-	python coursera-dl.py -u username -p pasword socialpsychology-001
+	python coursera-dl -u username -p pasword socialpsychology-001
 
 ### 注意事项
 
